@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Blog para as aulas de Inteligência Artificial
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Esse blog foi gerado usando a plataforma fast.ai para as aulas de ciência da computação para facilitar a utilização do GitHub
